@@ -3,7 +3,7 @@ Multi-attention efficient feature fusion network for left ventricular segmentati
 ### Please note that：
 I'm sorry, the article was published at the time of the COVID-19 (the school was closed before graduation and failed to return). After graduation, the server was mistakenly cleared the account, so all codes were lost. If you encounter problems with the specific experiments and steps in the article, please feel free to contact. I will try to update the work on GitHub again when I have time later.
 1. Reproduction of heart segmentation section, please refer to（ https://echonet.github.io ）The code, our work also fully draws on the code framework of the website for implementation. If you are in a hurry, you can try this first, and if you encounter any problems, you can contact me;
-2. Finding end diastolic/systolic and EF calculations is easy to implement regardless of script. If you encounter any problems, please feel free to contact us at any time;
+2. It is easy to find the end diastolic/systolic phase and EF calculation using scripts. If you encounter any problems, please feel free to contact us at any time;
 3. The number of validation and testing sets in this work is slightly different from the "Echo" dataset. Please refer to the introduction in the article for details;
 4. The external test set for this work cannot be made public temporarily due to its involvement in patient privacy.
 
